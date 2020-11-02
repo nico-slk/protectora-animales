@@ -4,7 +4,7 @@ Es un proyecto realizado en equipo con estudiantes egresados y no-egresado de He
 
 En este proyecto hemos implementado como principal tecnologia, JavaScript y su framework React.js, siendo también parte de este React-Redux. Además de contar con tecnologías aplicadas como Git y GitHub, BootstrapCSS, HTML5 y CSS3. Aplicamos y exploramos el desarrollo del back-end en Firebase de Google como base de datos NoSQL y como Cloud Storage para almacenamiento de archivos.
 
-Este proyecto es un proyecto real, con fines de ser aplicada como pagina principal para la protectora de animales Sarmiento de Rosario [Facebook](https://www.facebook.com/ProtectoraSarmiento.Rosario) y este trabajo fue realizado en 4 semanas por un grupo de al rededor de 8 alumnos de manera remota.
+Este proyecto es un proyecto real, con fines de ser aplicada como pagina principal para la Protectora de Animales Sarmiento de Rosario ([Facebook](https://www.facebook.com/ProtectoraSarmiento.Rosario)) y este trabajo fue realizado en 4 semanas por un grupo de al rededor de 8 alumnos de manera remota.
 
 | Instalación |
 
